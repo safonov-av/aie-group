@@ -1,3 +1,3 @@
 # aie-group
-DPO_aie-group
+aie-group
 Ссылка на Github репозиторий. Сафонов А.В
